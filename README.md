@@ -7,7 +7,7 @@
 
 - 🤔 Exploring new technologies.
 - 🤔 Learning everyday.
-- 😊 I like frontend and I do it too.
+- 😊 I like frontend and backend.
 - 😍 I love gym.
 - 🌟 I wish I could travel all over the world.
 
